@@ -58,7 +58,8 @@
     "publishChangesOnly": false,
     "uniqCompNum": 8,
     "versionPublish": "5.0.29",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "site_lang": "es"
   },
   "pages": {
     "index.html": {
